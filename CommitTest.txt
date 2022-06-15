@@ -2,4 +2,4 @@ text content for git tutorial
 this is the change1
 This is the change2
 
-This is the commit 1 of level_2
+This is the commit 2 of level_2
